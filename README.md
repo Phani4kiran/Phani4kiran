@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Phani4kiran
 - 👀 I’m interested in ... Microservices and blockchain 
 - 🌱 I’m currently learning ...blockchain 
-- 💞️ I’m looking to collaborate on ... blockchain 
 - 📫 How to reach me ...phani4kiran@yahoo.com 
 
 <!---
